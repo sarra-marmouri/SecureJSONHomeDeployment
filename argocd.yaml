@@ -8,7 +8,7 @@ spec:
 
   source:
     repoURL: "https://github.com/sarra-marmouri/SecureJSONHomeDeployment"
-    targetRevision: HEAD
+    targetRevision: main
     path: path/to/your/k8s-yamls
 
   destination:
