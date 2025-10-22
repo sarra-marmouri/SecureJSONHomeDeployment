@@ -9,7 +9,7 @@ spec:
   source:
     repoURL: "https://github.com/sarra-marmouri/SecureJSONHomeDeployment"
     targetRevision: main
-    path: path/to/your/k8s-yamls
+    path: 
 
   destination:
     server: 'https://kubernetes.default.svc'
