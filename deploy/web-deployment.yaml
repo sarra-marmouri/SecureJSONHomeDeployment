@@ -14,7 +14,7 @@ spec:
     spec:
       containers:
       - name: securejsonhome-web
-        image: sarramar/securejsonhome:17
+        image: securejsonhome:20
         imagePullPolicy: IfNotPresent
         ports:
         - containerPort: 5000
